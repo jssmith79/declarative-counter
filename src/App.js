@@ -2,6 +2,8 @@
 import './App.css';
 import React,  {useState} from 'react';
 
+//test comment to push to git repo
+
 function App() {
   let [ counterNum, setCounterNum ] = useState(0)
   window.setCounterNum = setCounterNum
